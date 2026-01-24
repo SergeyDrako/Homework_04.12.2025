@@ -1,0 +1,12 @@
+time: 24/01/2026 08:26:13 PM - name file: Store_app.py - name logger: bank_log - level: INFO - message: Начало продаж.
+time: 24/01/2026 08:26:24 PM - name file: Store_app.py - name logger: bank_log - level: INFO - message: Cобытия на складе
+time: 24/01/2026 08:26:27 PM - name file: Store_app.py - name logger: bank_log - level: INFO - message: Запрос добавление
+time: 24/01/2026 08:26:51 PM - name file: Store_app.py - name logger: bank_log - level: INFO - message: Запрос добавление
+time: 24/01/2026 08:27:04 PM - name file: Store_app.py - name logger: bank_log - level: INFO - message: Запрос на удаление
+time: 24/01/2026 08:27:12 PM - name file: Store_app.py - name logger: bank_log - level: INFO - message: Запрос на замену цены
+time: 24/01/2026 08:27:27 PM - name file: Store_app.py - name logger: bank_log - level: INFO - message: Запрос на замену количества
+time: 24/01/2026 08:27:57 PM - name file: Store_app.py - name logger: bank_log - level: INFO - message: Действия на кассе продавцом
+time: 24/01/2026 08:28:09 PM - name file: Cashier.py - name logger: bank_log - level: ERROR - message: Ожидали, что в магазине достаточно продуков 7. По факту 7 >  3
+time: 24/01/2026 08:28:12 PM - name file: Cashier.py - name logger: bank_log - level: DEBUG - message: Название проданного товара: Сочник
+time: 24/01/2026 08:28:12 PM - name file: Cashier.py - name logger: bank_log - level: DEBUG - message: Количество проданного товара: 7
+time: 24/01/2026 08:28:38 PM - name file: Cashier.py - name logger: bank_log - level: WARNING - message: Продукт: Cola отсутствует на складе

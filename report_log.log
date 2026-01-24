@@ -1,0 +1,3 @@
+01/24/2026 02:40:37 AM - Homework_log.py - root - INFO - Запуск теста
+01/24/2026 02:40:37 AM - Homework_log.py - root - INFO - URL: https://api.example.com/users
+01/24/2026 02:40:37 AM - Homework_log.py - root - ERROR - Ожидали статус: 200, пришел статус: 404
