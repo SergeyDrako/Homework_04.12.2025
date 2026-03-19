@@ -1,0 +1,40 @@
+2026-03-19 00:23:29 [ERROR] Текст в поле #result-text не соответствует ожидаемому.
+ ОЖИДАЛИ: 'Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address' 
+ ПОЛУЧИЛИ: 'Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address' 
+ Screenshot: ../logs my project\screenshots ERROR_DUG_WARNING\screenshot_ERROR_DUG_WARNING_2026-03-19_00-23-28.png
+2026-03-19 13:24:21 [ERROR] Текст в поле #result-text не соответствует ожидаемому.
+ ОЖИДАЛИ: 'Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address' 
+ ПОЛУЧИЛИ: 'Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address' 
+ Screenshot: ../logs my project\screenshots ERROR_DUG_WARNING\screenshot_ERROR_DUG_WARNING_2026-03-19_13-24-21.png
+2026-03-19 13:24:33 [ERROR] Текст в поле #result-text не соответствует ожидаемому.
+ ОЖИДАЛИ: 'Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address' 
+ ПОЛУЧИЛИ: 'Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address' 
+ Screenshot: ../logs my project\screenshots ERROR_DUG_WARNING\screenshot_ERROR_DUG_WARNING_2026-03-19_13-24-33.png
+2026-03-19 13:31:15 [ERROR] Текст в поле #result-text не соответствует ожидаемому.
+ ОЖИДАЛИ: 'Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address' 
+ ПОЛУЧИЛИ: 'Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address' 
+ Screenshot: ../logs my project\screenshots ERROR_DUG_WARNING\screenshot_ERROR_DUG_WARNING_2026-03-19_13-31-15.png
+2026-03-19 15:16:58 [ERROR] Текст в поле #result-text не соответствует ожидаемому.
+ ОЖИДАЛИ: 'Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address' 
+ ПОЛУЧИЛИ: 'Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address' 
+ Screenshot: ../logs my project\screenshots ERROR_DUG_WARNING\screenshot_ERROR_DUG_WARNING_2026-03-19_15-16-58.png
+2026-03-19 19:05:42 [ERROR] Текст в поле #result-text не соответствует ожидаемому.
+ ОЖИДАЛИ: 'Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address' 
+ ПОЛУЧИЛИ: 'Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address' 
+ Screenshot: ../logs my project\screenshots ERROR_DUG_WARNING\screenshot_ERROR_DUG_WARNING_2026-03-19_19-05-42.png
+2026-03-19 21:06:25 [ERROR] Текст в поле #result-text не соответствует ожидаемому.
+ ОЖИДАЛИ: 'NCR Delhi' 
+ ПОЛУЧИЛИ: 'State and City	NCR' 
+ Screenshot: ../logs my project\screenshots ERROR_DUG_WARNING\screenshot_ERROR_DUG_WARNING_2026-03-19_21-06-25.png

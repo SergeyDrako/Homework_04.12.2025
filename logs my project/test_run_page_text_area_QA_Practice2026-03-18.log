@@ -1,0 +1,6 @@
+2026-03-18 23:30:42 [ERROR] Текст в поле #result-text не соответствует ожидаемому.
+ ОЖИДАЛИ: 'Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address' 
+ ПОЛУЧИЛИ: 'Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address' 
+ Screenshot: logs my project\screenshots ERROR_DUG_WARNING\screenshot_ERROR_DUG_WARNING_2026-03-18_23-30-42.png
