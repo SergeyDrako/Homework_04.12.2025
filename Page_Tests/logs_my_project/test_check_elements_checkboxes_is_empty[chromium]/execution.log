@@ -1,0 +1,42 @@
+2026-04-17 00:14:16 [INFO] Open page: https://www.qa-practice.com/
+2026-04-17 00:14:17 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-17 00:14:17 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/checkbox"]'>
+2026-04-17 00:14:17 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/single_checkbox'> selector='a[href="/elements/checkbox/mult_checkbox"]'>
+2026-04-17 00:14:18 [INFO] Check status: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#submit-id-submit'>
+2026-04-17 00:14:18 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>
+2026-04-17 00:14:18 [INFO] Check result: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>
+2026-04-17 00:17:03 [INFO] Open page: https://www.qa-practice.com/
+2026-04-17 00:17:03 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-17 00:17:03 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/checkbox"]'>
+2026-04-17 00:17:04 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/single_checkbox'> selector='a[href="/elements/checkbox/mult_checkbox"]'>
+2026-04-17 00:17:04 [INFO] Check status: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#submit-id-submit'>
+2026-04-17 00:17:04 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>
+2026-04-17 00:17:04 [INFO] Check result: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>
+2026-05-18 21:41:17 [INFO] Open page: https://www.qa-practice.com/
+2026-05-18 21:41:18 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-05-18 21:41:18 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/checkbox"]'>
+2026-05-18 21:41:19 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/single_checkbox'> selector='a[href="/elements/checkbox/mult_checkbox"]'>
+2026-05-18 21:41:19 [INFO] Check status: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#submit-id-submit'>
+2026-05-18 21:41:19 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>
+2026-05-18 21:41:19 [INFO] Check result: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>
+2026-05-18 22:01:14 [INFO] Open page: https://www.qa-practice.com/
+2026-05-18 22:01:15 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-05-18 22:01:15 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/checkbox"]'>
+2026-05-18 22:01:16 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/single_checkbox'> selector='a[href="/elements/checkbox/mult_checkbox"]'>
+2026-05-18 22:01:16 [INFO] Check status: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#submit-id-submit'>
+2026-05-18 22:01:16 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>
+2026-05-18 22:01:16 [INFO] Check result: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>
+2026-05-21 22:46:26 [INFO] Open page: https://www.qa-practice.com/
+2026-05-21 22:46:27 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-05-21 22:46:27 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/checkbox"]'>
+2026-05-21 22:46:28 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/single_checkbox'> selector='a[href="/elements/checkbox/mult_checkbox"]'>
+2026-05-21 22:46:28 [INFO] Check status: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#submit-id-submit'>
+2026-05-21 22:46:28 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>
+2026-05-21 22:46:28 [INFO] Check result: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>
+2026-05-21 22:52:38 [INFO] Open page: https://www.qa-practice.com/
+2026-05-21 22:52:39 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-05-21 22:52:39 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/checkbox"]'>
+2026-05-21 22:52:39 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/single_checkbox'> selector='a[href="/elements/checkbox/mult_checkbox"]'>
+2026-05-21 22:52:39 [INFO] Check status: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#submit-id-submit'>
+2026-05-21 22:52:39 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>
+2026-05-21 22:52:40 [INFO] Check result: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>

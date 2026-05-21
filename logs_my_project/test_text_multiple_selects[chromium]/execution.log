@@ -1,0 +1,21 @@
+2026-04-13 22:18:30 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 22:18:31 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 22:18:31 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/select"]'>
+2026-04-13 22:18:32 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/select/single_select'> selector='a[href="/elements/select/mult_select"]'>
+2026-04-13 22:18:32 [INFO] Check: Choose the place you want to go*
+2026-04-13 22:18:32 [INFO] Check: Choose how you want to get there*
+2026-04-13 22:18:32 [INFO] Check: Choose when you want to go*
+2026-04-17 00:12:27 [INFO] Open page: https://www.qa-practice.com/
+2026-04-17 00:12:27 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-17 00:12:27 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/select"]'>
+2026-04-17 00:12:28 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/select/single_select'> selector='a[href="/elements/select/mult_select"]'>
+2026-04-17 00:12:28 [INFO] Check: Choose the place you want to go*
+2026-04-17 00:12:28 [INFO] Check: Choose how you want to get there*
+2026-04-17 00:12:28 [INFO] Check: Choose when you want to go*
+2026-05-18 21:51:45 [INFO] Open page: https://www.qa-practice.com/
+2026-05-18 21:51:46 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-05-18 21:51:46 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/select"]'>
+2026-05-18 21:51:46 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/select/single_select'> selector='a[href="/elements/select/mult_select"]'>
+2026-05-18 21:51:47 [INFO] Check: Choose the place you want to go*
+2026-05-18 21:51:47 [INFO] Check: Choose how you want to get there*
+2026-05-18 21:51:47 [INFO] Check: Choose when you want to go*

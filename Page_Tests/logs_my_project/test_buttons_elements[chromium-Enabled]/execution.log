@@ -1,0 +1,24 @@
+2026-05-18 22:02:04 [INFO] Open page: https://www.qa-practice.com/
+2026-05-18 22:02:05 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-05-18 22:02:05 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/button"]'>
+2026-05-18 22:02:06 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/button/simple'> selector='a[href="/elements/button/disabled"]'>
+2026-05-18 22:02:06 [INFO] Dropping select_state: Enabled
+2026-05-18 22:02:06 [INFO] Check_status_submit_enabled
+2026-05-18 22:02:06 [INFO] Submit: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/button/disabled'> selector='#submit-id-submit'>
+2026-05-18 22:02:06 [INFO] Check_result: Submitted
+2026-05-21 22:47:17 [INFO] Open page: https://www.qa-practice.com/
+2026-05-21 22:47:18 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-05-21 22:47:18 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/button"]'>
+2026-05-21 22:47:18 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/button/simple'> selector='a[href="/elements/button/disabled"]'>
+2026-05-21 22:47:18 [INFO] Dropping select_state: Enabled
+2026-05-21 22:47:18 [INFO] Check_status_submit_enabled
+2026-05-21 22:47:18 [INFO] Submit: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/button/disabled'> selector='#submit-id-submit'>
+2026-05-21 22:47:19 [INFO] Check_result: Submitted
+2026-05-21 22:53:06 [INFO] Open page: https://www.qa-practice.com/
+2026-05-21 22:53:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-05-21 22:53:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/button"]'>
+2026-05-21 22:53:08 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/button/simple'> selector='a[href="/elements/button/disabled"]'>
+2026-05-21 22:53:08 [INFO] Dropping select_state: Enabled
+2026-05-21 22:53:08 [INFO] Check_status_submit_enabled
+2026-05-21 22:53:08 [INFO] Submit: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/button/disabled'> selector='#submit-id-submit'>
+2026-05-21 22:53:08 [INFO] Check_result: Submitted

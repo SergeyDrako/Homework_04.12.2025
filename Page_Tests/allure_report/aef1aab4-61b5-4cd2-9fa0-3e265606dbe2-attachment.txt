@@ -1,0 +1,8 @@
+[32mINFO    [0m test_checkbox_elements_single_checkbox[chromium]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
+[32mINFO    [0m test_checkbox_elements_single_checkbox[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+[32mINFO    [0m test_checkbox_elements_single_checkbox[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/checkbox"]'>
+[32mINFO    [0m test_checkbox_elements_single_checkbox[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/single_checkbox'> selector='a[href="/elements/checkbox"]'>
+[32mINFO    [0m test_checkbox_elements_single_checkbox[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/single_checkbox'> selector='#id_checkbox_0'>
+[32mINFO    [0m test_checkbox_elements_single_checkbox[chromium]:utils_test_logger.py:41 Check status: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/single_checkbox'> selector='#submit-id-submit'>
+[32mINFO    [0m test_checkbox_elements_single_checkbox[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/single_checkbox'> selector='#result-text'>
+[32mINFO    [0m test_checkbox_elements_single_checkbox[chromium]:utils_test_logger.py:41 Check result: select me or not

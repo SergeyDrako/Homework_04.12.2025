@@ -1,0 +1,6 @@
+[32mINFO    [0m test_buttons_elements[chromium-Disabled]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
+[32mINFO    [0m test_buttons_elements[chromium-Disabled]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+[32mINFO    [0m test_buttons_elements[chromium-Disabled]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/button"]'>
+[32mINFO    [0m test_buttons_elements[chromium-Disabled]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/button/simple'> selector='a[href="/elements/button/disabled"]'>
+[32mINFO    [0m test_buttons_elements[chromium-Disabled]:utils_test_logger.py:41 Dropping select_state: Disabled
+[32mINFO    [0m test_buttons_elements[chromium-Disabled]:utils_test_logger.py:41 Check_status_submit_disabled

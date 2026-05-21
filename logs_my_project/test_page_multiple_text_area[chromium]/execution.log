@@ -1,0 +1,526 @@
+2026-04-13 22:18:40 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 22:18:40 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 22:18:40 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-13 22:18:41 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-13 22:18:41 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-13 22:18:41 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-13 22:18:41 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-13 22:18:41 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-13 22:18:41 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-13 22:18:41 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-13 22:18:41 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-13 22:18:41 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-13 22:18:41 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-13 22:18:41 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:18:41 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-13 22:18:41 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:18:47 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+ПОЛУЧИЛИ: Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address
+РАЗНИЦА: Сайт изменил регистр букв или склеил слова (проверьте пробелы после '?!№'). | Screenshot: logs_my_project\test_page_multiple_text_area[chromium]\screenshot_ERROR_22-18-46.png
+2026-04-13 22:22:49 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 22:22:50 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 22:22:50 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-13 22:22:51 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-13 22:22:51 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-13 22:22:51 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-13 22:22:51 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-13 22:22:51 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-13 22:22:51 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-13 22:22:51 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-13 22:22:51 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-13 22:22:51 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-13 22:22:51 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-13 22:22:51 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:22:51 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-13 22:22:52 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:23:39 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 22:23:39 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 22:23:39 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-13 22:23:40 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-13 22:23:40 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-13 22:23:40 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-13 22:23:40 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-13 22:23:40 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-13 22:23:40 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-13 22:23:40 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-13 22:23:40 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-13 22:23:40 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-13 22:23:40 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-13 22:23:40 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:23:40 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-13 22:23:40 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:23:46 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+ПОЛУЧИЛИ: Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address
+РАЗНИЦА: Сайт изменил регистр букв или склеил слова (проверьте пробелы после '?!№'). | Screenshot: logs_my_project\test_page_multiple_text_area[chromium]\screenshot_ERROR_22-23-46.png
+2026-04-13 22:30:01 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 22:30:01 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 22:30:01 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-13 22:30:02 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-13 22:30:02 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-13 22:30:02 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-13 22:30:02 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-13 22:30:02 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-13 22:30:02 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-13 22:30:02 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-13 22:30:02 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-13 22:30:02 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-13 22:30:02 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-13 22:30:02 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:30:02 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-13 22:30:02 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:33:08 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 22:33:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 22:33:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-13 22:33:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-13 22:33:10 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-13 22:33:10 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-13 22:33:10 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-13 22:33:10 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-13 22:33:10 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-13 22:33:10 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-13 22:33:10 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-13 22:33:10 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-13 22:33:10 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-13 22:33:10 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:33:10 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-13 22:33:10 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:37:57 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 22:37:57 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 22:37:57 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-13 22:37:58 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-13 22:37:58 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-13 22:37:58 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-13 22:37:58 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-13 22:37:58 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-13 22:37:58 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-13 22:37:58 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-13 22:37:58 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-13 22:37:58 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-13 22:37:58 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-13 22:37:58 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:37:58 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-13 22:37:58 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:42:45 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 22:42:45 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 22:42:46 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-13 22:42:46 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-13 22:42:46 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-13 22:42:46 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-13 22:42:46 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-13 22:42:46 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-13 22:42:46 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-13 22:42:46 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-13 22:42:46 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-13 22:42:46 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-13 22:42:46 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-13 22:42:46 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:42:46 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-13 22:42:47 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:48:04 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 22:48:04 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 22:48:04 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-13 22:48:05 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-13 22:48:05 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-13 22:48:05 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-13 22:48:05 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-13 22:48:05 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-13 22:48:05 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-13 22:48:05 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-13 22:48:05 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-13 22:48:05 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-13 22:48:05 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-13 22:48:05 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:48:05 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-13 22:48:05 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 22:48:11 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+ПОЛУЧИЛИ: Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address
+РАЗНИЦА: Сайт изменил регистр букв или склеил слова (проверьте пробелы после '?!№'). | Screenshot: logs_my_project\test_page_multiple_text_area[chromium]\screenshot_ERROR_22-48-11.png
+2026-04-13 23:23:08 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 23:23:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 23:23:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-13 23:23:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-13 23:23:09 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-13 23:23:09 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-13 23:23:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-13 23:23:09 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-13 23:23:09 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-13 23:23:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-13 23:23:09 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-13 23:23:09 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-13 23:23:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-13 23:23:10 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 23:23:10 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-13 23:23:10 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 23:23:15 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+ПОЛУЧИЛИ: Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address
+РАЗНИЦА: Сайт изменил регистр букв или склеил слова (проверьте пробелы после '?!№'). | Screenshot: logs_my_project\test_page_multiple_text_area[chromium]\screenshot_ERROR_23-23-15.png
+2026-04-13 23:26:33 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 23:26:33 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 23:26:33 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-13 23:26:34 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-13 23:26:34 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-13 23:26:34 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-13 23:26:34 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-13 23:26:34 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-13 23:26:34 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-13 23:26:34 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-13 23:26:34 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-13 23:26:34 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-13 23:26:34 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-13 23:26:34 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 23:26:34 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-13 23:26:34 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 23:26:40 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+ПОЛУЧИЛИ: Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address
+РАЗНИЦА: Сайт изменил регистр букв или склеил слова (проверьте пробелы после '?!№'). | Screenshot: logs_my_project\test_page_multiple_text_area[chromium]\screenshot_ERROR_23-26-39.png
+2026-04-13 23:26:59 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 23:27:00 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 23:27:00 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-13 23:27:01 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-13 23:27:01 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-13 23:27:01 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-13 23:27:01 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-13 23:27:01 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-13 23:27:01 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-13 23:27:01 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-13 23:27:01 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-13 23:27:01 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-13 23:27:01 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-13 23:27:01 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 23:27:01 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-13 23:27:01 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 23:27:06 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+ПОЛУЧИЛИ: Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address
+РАЗНИЦА: Сайт изменил регистр букв или склеил слова (проверьте пробелы после '?!№'). | Screenshot: logs_my_project\test_page_multiple_text_area[chromium]\screenshot_ERROR_23-27-06.png
+2026-04-13 23:30:00 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 23:30:01 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 23:30:01 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-13 23:30:02 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-13 23:30:02 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-13 23:30:02 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-13 23:30:02 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-13 23:30:02 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-13 23:30:02 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-13 23:30:02 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-13 23:30:02 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-13 23:30:02 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-13 23:30:02 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-13 23:30:02 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 23:30:02 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-13 23:30:02 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 23:30:07 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+ПОЛУЧИЛИ: Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address
+РАЗНИЦА: Сайт изменил регистр букв или склеил слова (проверьте пробелы после '?!№'). | Screenshot: logs_my_project\test_page_multiple_text_area[chromium]\screenshot_ERROR_23-30-07.png
+2026-04-13 23:40:44 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 23:40:44 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 23:40:44 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-13 23:40:45 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-13 23:40:45 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-13 23:40:45 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-13 23:40:45 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-13 23:40:45 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-13 23:40:45 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-13 23:40:45 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-13 23:40:45 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-13 23:40:45 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-13 23:40:45 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-13 23:40:45 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 23:40:45 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-13 23:40:45 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-13 23:40:51 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+ПОЛУЧИЛИ: Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address
+РАЗНИЦА: Сайт изменил регистр букв или склеил слова (проверьте пробелы после '?!№'). | Screenshot: logs_my_project\test_page_multiple_text_area[chromium]\screenshot_ERROR_23-40-50.png
+2026-04-16 22:29:11 [INFO] Open page: https://www.qa-practice.com/
+2026-04-16 22:29:11 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-16 22:29:11 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-16 22:29:12 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-16 22:29:12 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-16 22:29:12 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-16 22:29:12 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-16 22:29:12 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-16 22:29:12 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-16 22:29:12 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-16 22:29:12 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-16 22:29:12 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-16 22:29:12 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-16 22:29:12 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-16 22:29:12 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-16 22:42:52 [INFO] Open page: https://www.qa-practice.com/
+2026-04-16 22:42:53 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-16 22:42:53 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-16 22:42:53 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-16 22:42:53 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-16 22:42:53 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-16 22:42:53 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-16 22:42:53 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-16 22:42:53 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-16 22:42:53 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-16 22:42:54 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-16 22:42:54 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-16 22:42:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-16 22:42:54 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-16 22:42:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-16 23:18:53 [INFO] Open page: https://www.qa-practice.com/
+2026-04-16 23:18:53 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-16 23:18:53 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-16 23:18:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-16 23:18:54 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-16 23:18:54 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-16 23:18:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-16 23:18:54 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-16 23:18:54 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-16 23:18:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-16 23:18:54 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-16 23:18:54 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-16 23:18:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-16 23:18:54 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-16 23:18:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-16 23:27:43 [INFO] Open page: https://www.qa-practice.com/
+2026-04-16 23:27:43 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-16 23:27:43 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-16 23:27:44 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-16 23:27:44 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-16 23:27:44 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-16 23:27:44 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-16 23:27:44 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-16 23:27:44 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-16 23:27:44 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-16 23:27:44 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-16 23:27:44 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-16 23:27:44 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-16 23:27:44 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-16 23:27:44 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-16 23:27:44 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-16 23:27:49 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+ПОЛУЧИЛИ: Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address
+РАЗНИЦА: Сайт изменил регистр букв или склеил слова (проверьте пробелы после '?!№'). | Screenshot: logs_my_project\test_page_multiple_text_area[chromium]\screenshot_ERROR_23-27-49.png
+2026-04-16 23:45:35 [INFO] Open page: https://www.qa-practice.com/
+2026-04-16 23:45:36 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-16 23:45:36 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-16 23:45:37 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-16 23:45:37 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-16 23:45:37 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-16 23:45:37 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-16 23:45:37 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-16 23:45:37 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-16 23:45:37 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-16 23:45:37 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-16 23:45:37 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-16 23:45:37 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-16 23:45:37 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-16 23:45:37 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-16 23:45:37 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-16 23:45:42 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+ПОЛУЧИЛИ: Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address
+2026-04-16 23:50:53 [INFO] Open page: https://www.qa-practice.com/
+2026-04-16 23:50:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-16 23:50:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-16 23:50:55 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-16 23:50:55 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-16 23:50:55 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-16 23:50:55 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-16 23:50:55 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-16 23:50:55 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-16 23:50:55 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-16 23:50:55 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-16 23:50:55 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-16 23:50:55 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-16 23:50:55 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-16 23:50:55 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-16 23:50:55 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-16 23:51:00 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+ПОЛУЧИЛИ: Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address
+2026-04-16 23:53:06 [INFO] Open page: https://www.qa-practice.com/
+2026-04-16 23:53:06 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-16 23:53:06 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-16 23:53:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-16 23:53:07 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-16 23:53:07 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-16 23:53:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-16 23:53:07 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-16 23:53:07 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-16 23:53:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-16 23:53:07 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-16 23:53:07 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-16 23:53:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-16 23:53:07 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-16 23:53:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-16 23:53:07 [INFO] Начинаем проверку текста. Ожидаем: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-16 23:53:12 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+ПОЛУЧИЛИ: Hello python. my name is sergey. i'm 34 years old. я узучаю язык программирования python?!№
+The weather has temperature plus 10 and a very sunny day today.
+My address: city minsk, street zhudro,54-89.i would like to get my order at this address
+2026-04-16 23:55:14 [INFO] Open page: https://www.qa-practice.com/
+2026-04-16 23:55:15 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-16 23:55:15 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-16 23:55:15 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-16 23:55:16 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-16 23:55:16 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-16 23:55:16 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-16 23:55:16 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-16 23:55:16 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-16 23:55:16 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-16 23:55:16 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-16 23:55:16 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-16 23:55:16 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-16 23:55:16 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-16 23:55:16 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-16 23:55:16 [INFO] Проверка текста: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-16 23:57:31 [INFO] Open page: https://www.qa-practice.com/
+2026-04-16 23:57:32 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-16 23:57:32 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-16 23:57:32 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-16 23:57:32 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-16 23:57:33 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-16 23:57:33 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-16 23:57:33 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-16 23:57:33 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-16 23:57:33 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-16 23:57:33 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-16 23:57:33 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-16 23:57:33 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-16 23:57:33 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-16 23:57:33 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-16 23:57:33 [INFO] Проверка текста: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-17 00:01:34 [INFO] Open page: https://www.qa-practice.com/
+2026-04-17 00:01:35 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-17 00:01:35 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-17 00:01:35 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-17 00:01:36 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-17 00:01:36 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-17 00:01:36 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-17 00:01:36 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-17 00:01:36 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-17 00:01:36 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-17 00:01:36 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-17 00:01:36 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-17 00:01:36 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-17 00:01:36 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-17 00:01:36 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-17 00:01:36 [INFO] Проверка текста: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-17 00:05:05 [INFO] Open page: https://www.qa-practice.com/
+2026-04-17 00:05:05 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-17 00:05:05 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-17 00:05:06 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-17 00:05:06 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-17 00:05:06 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-17 00:05:06 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-17 00:05:06 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-17 00:05:06 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-17 00:05:06 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-17 00:05:06 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-17 00:05:06 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-17 00:05:06 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-17 00:05:06 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-17 00:05:06 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-17 00:05:06 [INFO] Проверка текста: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-17 00:12:35 [INFO] Open page: https://www.qa-practice.com/
+2026-04-17 00:12:36 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-17 00:12:36 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-17 00:12:36 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-17 00:12:36 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-17 00:12:36 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-17 00:12:36 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-17 00:12:36 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-17 00:12:36 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-17 00:12:36 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-17 00:12:36 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-17 00:12:37 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-17 00:12:37 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-17 00:12:37 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-17 00:12:37 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-17 00:12:37 [INFO] Проверка текста: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-17 00:19:12 [INFO] Open page: https://www.qa-practice.com/
+2026-04-17 00:19:12 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-17 00:19:12 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-17 00:19:13 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-17 00:19:13 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-17 00:19:13 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-17 00:19:13 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-17 00:19:13 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-17 00:19:13 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-17 00:19:13 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-17 00:19:13 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-17 00:19:13 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-17 00:19:13 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-17 00:19:13 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-17 00:19:13 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-17 00:19:13 [INFO] Проверка текста: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-17 00:27:05 [INFO] Open page: https://www.qa-practice.com/
+2026-04-17 00:27:06 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-17 00:27:06 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-04-17 00:27:06 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-04-17 00:27:07 [INFO] Checking the visibility of a text field first box for read text area
+2026-04-17 00:27:07 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-04-17 00:27:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-04-17 00:27:07 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-04-17 00:27:07 [INFO] Checking the visibility of a text field second box for read text area
+2026-04-17 00:27:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-04-17 00:27:07 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-04-17 00:27:07 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-04-17 00:27:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-04-17 00:27:07 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-04-17 00:27:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-04-17 00:27:07 [INFO] Проверка текста: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-05-18 21:51:53 [INFO] Open page: https://www.qa-practice.com/
+2026-05-18 21:51:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-05-18 21:51:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-05-18 21:51:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/textareas"]'>
+2026-05-18 21:51:55 [INFO] Checking the visibility of a text field first box for read text area
+2026-05-18 21:51:55 [INFO] Checking the mandatory nature of filling first chapter box for read text area
+2026-05-18 21:51:55 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_first_chapter'>
+2026-05-18 21:51:55 [INFO] input text in first chapter box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№
+2026-05-18 21:51:55 [INFO] Checking the visibility of a text field second box for read text area
+2026-05-18 21:51:55 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_second_chapter'>
+2026-05-18 21:51:55 [INFO] input text in second chapter box text: The weather has temperature plus 10 and a very sunny day today.
+2026-05-18 21:51:55 [INFO] Checking the mandatory nature of filling third box for read text area
+2026-05-18 21:51:55 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#id_third_chapter'>
+2026-05-18 21:51:55 [INFO] input text in third chapter box text: My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address
+2026-05-18 21:51:55 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/textareas'> selector='#submit-id-submit'>
+2026-05-18 21:51:55 [INFO] Проверка текста: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования python?!№ The weather has temperature plus 10 and a very sunny day today. My address: city Minsk, street Zhudro,54-89.I would like to get my order at this address

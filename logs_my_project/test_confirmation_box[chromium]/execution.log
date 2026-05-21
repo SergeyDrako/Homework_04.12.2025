@@ -1,0 +1,24 @@
+2026-04-13 22:17:56 [INFO] Open page: https://www.qa-practice.com/
+2026-04-13 22:17:56 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-13 22:17:56 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/alert"]'>
+2026-04-13 22:17:57 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/alert'> selector='internal:role=link[name="Confirmation box"i]'>
+2026-04-13 22:17:57 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/confirm'> selector='.a-button'>
+2026-04-13 22:17:57 [INFO] Setting up handler to ACCEPT the next Confirmation dialog
+2026-04-13 22:17:57 [INFO] Checking confirmation box: 'You selected
+Cancel'
+2026-04-17 00:11:20 [INFO] Open page: https://www.qa-practice.com/
+2026-04-17 00:11:20 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-04-17 00:11:21 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/alert"]'>
+2026-04-17 00:11:21 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/alert'> selector='internal:role=link[name="Confirmation box"i]'>
+2026-04-17 00:11:21 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/confirm'> selector='.a-button'>
+2026-04-17 00:11:21 [INFO] Setting up handler to ACCEPT the next Confirmation dialog
+2026-04-17 00:11:21 [INFO] Checking confirmation box: 'You selected
+Cancel'
+2026-05-18 21:50:51 [INFO] Open page: https://www.qa-practice.com/
+2026-05-18 21:50:51 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-05-18 21:50:51 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/alert"]'>
+2026-05-18 21:50:52 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/alert'> selector='internal:role=link[name="Confirmation box"i]'>
+2026-05-18 21:50:52 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/confirm'> selector='.a-button'>
+2026-05-18 21:50:52 [INFO] Setting up handler to ACCEPT the next Confirmation dialog
+2026-05-18 21:50:52 [INFO] Checking confirmation box: 'You selected
+Cancel'
