@@ -1,0 +1,11 @@
+[32mINFO    [0m test_page_drag_n_drop_image_down_box[chromium]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
+[32mINFO    [0m test_page_drag_n_drop_image_down_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+[32mINFO    [0m test_page_drag_n_drop_image_down_box[chromium]:utils_test_logger.py:41 Click on page: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/dragndrop"]'>
+[32mINFO    [0m test_page_drag_n_drop_image_down_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/dragndrop/boxes'> selector='a[href="/elements/dragndrop/images"]'>
+[32mINFO    [0m test_page_drag_n_drop_image_down_box[chromium]:utils_test_logger.py:41 Checking the visibility image smile
+[32mINFO    [0m test_page_drag_n_drop_image_down_box[chromium]:utils_test_logger.py:41 Starting drag and drop image by coordinates in down box
+[32mINFO    [0m test_page_drag_n_drop_image_down_box[chromium]:utils_test_logger.py:41 Drag and drop image completed
+[32mINFO    [0m test_page_drag_n_drop_image_down_box[chromium]:utils_test_logger.py:41 Check text after dragging down box: Dropped!
+[32mINFO    [0m test_page_drag_n_drop_image_down_box[chromium]:utils_test_logger.py:41 Starting drag and drop image by coordinates in top box
+[32mINFO    [0m test_page_drag_n_drop_image_down_box[chromium]:utils_test_logger.py:41 Drag and drop image completed
+[32mINFO    [0m test_page_drag_n_drop_image_down_box[chromium]:utils_test_logger.py:41 Check text after dragging tob box: Dropped!

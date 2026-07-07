@@ -1,0 +1,20 @@
+2026-07-07 21:48:58 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:48:59 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:48:59 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+2026-07-07 21:48:59 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/passwd"]'>
+2026-07-07 21:49:00 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/passwd'> selector='#id_password'>
+2026-07-07 21:49:00 [INFO] Checking the visibility window password field
+2026-07-07 21:49:00 [INFO] Checking the mandatory nature of filling password field
+2026-07-07 21:49:00 [INFO] Enter text into the window password: Petrov@1234!
+2026-07-07 21:49:00 [INFO] Press button Enter on the keyboard
+2026-07-07 21:49:00 [INFO] Check result after enter data: Petrov@1234!
+2026-07-07 21:51:15 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:15 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:51:15 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+2026-07-07 21:51:16 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/passwd"]'>
+2026-07-07 21:51:16 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/passwd'> selector='#id_password'>
+2026-07-07 21:51:16 [INFO] Checking the visibility window password field
+2026-07-07 21:51:16 [INFO] Checking the mandatory nature of filling password field
+2026-07-07 21:51:16 [INFO] Enter text into the window password: Petrov@1234!
+2026-07-07 21:51:16 [INFO] Press button Enter on the keyboard
+2026-07-07 21:51:16 [INFO] Check result after enter data: Petrov@1234!

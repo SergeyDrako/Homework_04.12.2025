@@ -1,0 +1,36 @@
+2026-07-07 21:49:06 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:49:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:49:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+2026-07-07 21:49:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/passwd"]'>
+2026-07-07 21:49:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/passwd'> selector='#id_password'>
+2026-07-07 21:49:07 [INFO] Checking the visibility window password field
+2026-07-07 21:49:07 [INFO] Checking the mandatory nature of filling password field
+2026-07-07 21:49:07 [INFO] Enter text into the window password: ПетрSee@20700!
+2026-07-07 21:49:07 [INFO] Press button Enter on the keyboard
+2026-07-07 21:49:08 [INFO] Check password error after enter data. Expected on UI: 'Low password complexity'
+2026-07-07 21:49:08 [INFO] Тест требований пароля. Нарушения: [Обнаружена недопустимая кириллица]. Ожидаем на UI: 'Low password complexity'
+2026-07-07 21:49:43 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА ОШИБКИ]
+ВВЕДЕННЫЙ ПАРОЛЬ: 'ПетрSee@20700!'
+ВЫЯВЛЕННЫЕ НАРУШЕНИЯ: Обнаружена недопустимая кириллица
+ОЖИДАЛИ НА UI: 'Low password complexity'
+ПОЛУЧИЛИ НА UI: 'Элемент ошибки не появился на экране (text: Low password complexity)'
+ПРИЧИНА ПАДЕНИЯ: Сайт не отобразил ожидаемый текст ошибки для данного набора нарушений. | Screenshot: logs_my_project\test_negative_button_password_field_input_box_password_have_one_cyrillic_character[chromium]\screenshot_ERROR_21-49-43.png
+2026-07-07 21:51:24 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:24 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:51:24 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+2026-07-07 21:51:25 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/passwd"]'>
+2026-07-07 21:51:25 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/passwd'> selector='#id_password'>
+2026-07-07 21:51:25 [INFO] Checking the visibility window password field
+2026-07-07 21:51:25 [INFO] Checking the mandatory nature of filling password field
+2026-07-07 21:51:25 [INFO] Enter text into the window password: ПетрSee@20700!
+2026-07-07 21:51:26 [INFO] Press button Enter on the keyboard
+2026-07-07 21:51:26 [INFO] Check password error after enter data. Expected on UI: 'Low password complexity'
+2026-07-07 21:51:26 [INFO] Тест требований пароля. Нарушения: [Обнаружена недопустимая кириллица]. Ожидаем на UI: 'Low password complexity'
+2026-07-07 21:52:01 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА ОШИБКИ]
+ВВЕДЕННЫЙ ПАРОЛЬ: 'ПетрSee@20700!'
+ВЫЯВЛЕННЫЕ НАРУШЕНИЯ: Обнаружена недопустимая кириллица
+ОЖИДАЛИ НА UI: 'Low password complexity'
+ПОЛУЧИЛИ НА UI: 'Элемент ошибки не появился на экране (text: Low password complexity)'
+ПРИЧИНА ПАДЕНИЯ: Сайт не отобразил ожидаемый текст ошибки для данного набора нарушений. | Screenshot: logs_my_project\test_negative_button_password_field_input_box_password_have_one_cyrillic_character[chromium]\screenshot_ERROR_21-52-01.png

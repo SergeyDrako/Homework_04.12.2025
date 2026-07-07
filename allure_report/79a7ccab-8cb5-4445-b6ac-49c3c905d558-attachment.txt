@@ -1,0 +1,56 @@
+page_practice_form = <pages.page_practice_form.PagePracticeForm object at 0x0000025EBFCBECF0>
+
+    @allure.title('Test Page Practice Form')
+    def test_page_practice_form(page_practice_form)->None:
+        user = {
+            'first_name': "Nec",
+            'last_name': "BlackCat",
+            'email' : 'drakoserge1990@gmail.com',
+            'mobile': '8029375455',
+            'birthday':{
+                'year': '2019',
+                'month': '10',
+                'day': '20',
+            },
+            'subjects':'Maths',
+            "address" : "city Minsk, street Zhudro",
+            'state':'NCR',
+            'city':'Delhi'
+        }
+        page_practice_form.open()
+        page_practice_form.click_forms()
+        page_practice_form.click_practice_form()
+        page_practice_form.fill_practice_form(user)
+        page_practice_form.click_submit()
+        page_practice_form.check_result_input_data_forma(user)
+        page_practice_form.check_result_click_gender_forma('Male')
+        page_practice_form.check_result_click_hobbies_forma('Sports, Reading, Music')
+>       page_practice_form.check_result_row_state_and_city('NCR Delhi')
+
+Page_Tests\test_page_practice_form.py:38: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = <pages.page_practice_form.PagePracticeForm object at 0x0000025EBFCBECF0>
+expected = 'NCR Delhi'
+
+    @allure.step('check result data in table rows')
+    def check_result_row_state_and_city(self, expected: str) -> None:
+        self.logger.log_issue("INFO", f"Начинаем проверку текста. Ожидаем: {expected}")
+    
+        try:
+>           expect(self.row_state_and_city).to_contain_text(expected)
+E           AssertionError: Locator expected to contain text 'NCR Delhi'
+E           Actual value: 
+E                                       State and City
+E                                       NCR
+E                                    
+E           Call log:
+E             - Expect "to_contain_text" with timeout 5000ms
+E             - waiting for locator("#resultsTable").locator("tr").filter(has_text="State")
+E               9 × locator resolved to <tr>…</tr>
+E                 - unexpected value "
+E                                       State and City
+E                                       NCR
+E                                   "
+
+pages\page_practice_form.py:159: AssertionError

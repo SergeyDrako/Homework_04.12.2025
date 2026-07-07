@@ -1,0 +1,18 @@
+2026-07-07 21:49:15 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:49:16 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:49:16 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/select"]'>
+2026-07-07 21:49:17 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/select/single_select'> selector='a[href="/elements/select/mult_select"]'>
+2026-07-07 21:49:17 [INFO] Click on: Air
+2026-07-07 21:49:18 [INFO] Click on: Old town
+2026-07-07 21:49:18 [INFO] Click on: Next week
+2026-07-07 21:49:18 [INFO] Submit: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/select/mult_select'> selector='#result-text'>
+2026-07-07 21:49:18 [INFO] Check: to go by air to the old town next week
+2026-07-07 21:51:31 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:32 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:51:32 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/select"]'>
+2026-07-07 21:51:33 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/select/single_select'> selector='a[href="/elements/select/mult_select"]'>
+2026-07-07 21:51:33 [INFO] Click on: Air
+2026-07-07 21:51:33 [INFO] Click on: Old town
+2026-07-07 21:51:33 [INFO] Click on: Next week
+2026-07-07 21:51:33 [INFO] Submit: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/select/mult_select'> selector='#result-text'>
+2026-07-07 21:51:33 [INFO] Check: to go by air to the old town next week

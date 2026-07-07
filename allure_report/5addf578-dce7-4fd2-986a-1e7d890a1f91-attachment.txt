@@ -1,0 +1,10 @@
+[32mINFO    [0m test_positive_button_email_field_input_box[chromium]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
+[32mINFO    [0m test_positive_button_email_field_input_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+[32mINFO    [0m test_positive_button_email_field_input_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+[32mINFO    [0m test_positive_button_email_field_input_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/email"]'>
+[32mINFO    [0m test_positive_button_email_field_input_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/email'> selector='#id_email'>
+[32mINFO    [0m test_positive_button_email_field_input_box[chromium]:utils_test_logger.py:41 Checking the visibility window email field
+[32mINFO    [0m test_positive_button_email_field_input_box[chromium]:utils_test_logger.py:41 Checking the mandatory nature of filling email field
+[32mINFO    [0m test_positive_button_email_field_input_box[chromium]:utils_test_logger.py:41 Enter text into the window email: DRAKOSERGE1990!@GMAIL.COM
+[32mINFO    [0m test_positive_button_email_field_input_box[chromium]:utils_test_logger.py:41 Press button Enter on the keyboard
+[32mINFO    [0m test_positive_button_email_field_input_box[chromium]:utils_test_logger.py:41 Check result after enter data: DRAKOSERGE1990!@GMAIL.COM

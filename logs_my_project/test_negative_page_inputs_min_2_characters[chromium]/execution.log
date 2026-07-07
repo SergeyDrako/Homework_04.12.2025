@@ -1,0 +1,18 @@
+2026-07-07 21:48:54 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:48:55 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:48:55 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+2026-07-07 21:48:55 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/simple"]'>
+2026-07-07 21:48:56 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='#id_text_string'>
+2026-07-07 21:48:56 [INFO] Enter text into the window Submit me: B
+2026-07-07 21:48:56 [INFO] Press button Enter on the keyboard
+2026-07-07 21:48:56 [INFO] Check result after enter data. Expected on UI: 'Please enter 2 or more characters'
+2026-07-07 21:48:56 [INFO] Тест требований. Причина: Текст слишком короткий (< 2 символа). Ожидаем на UI: 'Please enter 2 or more characters'
+2026-07-07 21:51:11 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:11 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:51:11 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+2026-07-07 21:51:12 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/simple"]'>
+2026-07-07 21:51:12 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='#id_text_string'>
+2026-07-07 21:51:12 [INFO] Enter text into the window Submit me: B
+2026-07-07 21:51:12 [INFO] Press button Enter on the keyboard
+2026-07-07 21:51:12 [INFO] Check result after enter data. Expected on UI: 'Please enter 2 or more characters'
+2026-07-07 21:51:12 [INFO] Тест требований. Причина: Текст слишком короткий (< 2 символа). Ожидаем на UI: 'Please enter 2 or more characters'

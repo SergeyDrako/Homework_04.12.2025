@@ -1,0 +1,16 @@
+2026-07-07 21:48:55 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:48:56 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:48:56 [INFO] Click on page: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/dragndrop"]'>
+2026-07-07 21:48:56 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/dragndrop/boxes'> selector='a[href="/elements/dragndrop/boxes"]'>
+2026-07-07 21:48:57 [INFO] Checking the visibility box Drag me
+2026-07-07 21:48:57 [INFO] Checking the visibility box Drop here
+2026-07-07 21:48:57 [INFO] Перетаскивает блок 'Drag me' в блок 'Drop here'
+2026-07-07 21:48:57 [INFO] Check text after dragging: Dropped!
+2026-07-07 21:51:13 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:14 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:51:14 [INFO] Click on page: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/dragndrop"]'>
+2026-07-07 21:51:14 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/dragndrop/boxes'> selector='a[href="/elements/dragndrop/boxes"]'>
+2026-07-07 21:51:14 [INFO] Checking the visibility box Drag me
+2026-07-07 21:51:14 [INFO] Checking the visibility box Drop here
+2026-07-07 21:51:14 [INFO] Перетаскивает блок 'Drag me' в блок 'Drop here'
+2026-07-07 21:51:15 [INFO] Check text after dragging: Dropped!

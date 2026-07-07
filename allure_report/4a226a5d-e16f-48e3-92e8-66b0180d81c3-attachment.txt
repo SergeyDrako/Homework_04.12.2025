@@ -1,0 +1,10 @@
+[32mINFO    [0m test_positive_page_inputs_min_2_characters[chromium]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
+[32mINFO    [0m test_positive_page_inputs_min_2_characters[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+[32mINFO    [0m test_positive_page_inputs_min_2_characters[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+[32mINFO    [0m test_positive_page_inputs_min_2_characters[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/simple"]'>
+[32mINFO    [0m test_positive_page_inputs_min_2_characters[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='#id_text_string'>
+[32mINFO    [0m test_positive_page_inputs_min_2_characters[chromium]:utils_test_logger.py:41 Checking the visibility window text string
+[32mINFO    [0m test_positive_page_inputs_min_2_characters[chromium]:utils_test_logger.py:41 Checking   the mandatory nature of filling Text string
+[32mINFO    [0m test_positive_page_inputs_min_2_characters[chromium]:utils_test_logger.py:41 Enter text into the window Submit me: S1
+[32mINFO    [0m test_positive_page_inputs_min_2_characters[chromium]:utils_test_logger.py:41 Press button Enter on the keyboard
+[32mINFO    [0m test_positive_page_inputs_min_2_characters[chromium]:utils_test_logger.py:41 Check result after enter data: S1

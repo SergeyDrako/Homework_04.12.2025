@@ -1,0 +1,10 @@
+[32mINFO    [0m test_positive_button_password_field_input_box[chromium]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
+[32mINFO    [0m test_positive_button_password_field_input_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+[32mINFO    [0m test_positive_button_password_field_input_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+[32mINFO    [0m test_positive_button_password_field_input_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/passwd"]'>
+[32mINFO    [0m test_positive_button_password_field_input_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/passwd'> selector='#id_password'>
+[32mINFO    [0m test_positive_button_password_field_input_box[chromium]:utils_test_logger.py:41 Checking the visibility window password field
+[32mINFO    [0m test_positive_button_password_field_input_box[chromium]:utils_test_logger.py:41 Checking the mandatory nature of filling password field
+[32mINFO    [0m test_positive_button_password_field_input_box[chromium]:utils_test_logger.py:41 Enter text into the window password: Petrov@1234!
+[32mINFO    [0m test_positive_button_password_field_input_box[chromium]:utils_test_logger.py:41 Press button Enter on the keyboard
+[32mINFO    [0m test_positive_button_password_field_input_box[chromium]:utils_test_logger.py:41 Check result after enter data: Petrov@1234!

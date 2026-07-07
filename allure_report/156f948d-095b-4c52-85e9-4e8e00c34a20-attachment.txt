@@ -1,0 +1,9 @@
+[32mINFO    [0m test_negative_page_inputs_symbols[chromium]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
+[32mINFO    [0m test_negative_page_inputs_symbols[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+[32mINFO    [0m test_negative_page_inputs_symbols[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+[32mINFO    [0m test_negative_page_inputs_symbols[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/simple"]'>
+[32mINFO    [0m test_negative_page_inputs_symbols[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='#id_text_string'>
+[32mINFO    [0m test_negative_page_inputs_symbols[chromium]:utils_test_logger.py:41 Enter text into the window Submit me: Drako@1990!
+[32mINFO    [0m test_negative_page_inputs_symbols[chromium]:utils_test_logger.py:41 Press button Enter on the keyboard
+[32mINFO    [0m test_negative_page_inputs_symbols[chromium]:utils_test_logger.py:41 Check result after enter data. Expected on UI: 'Enter a valid string consisting of letters, numbers, underscores or hyphens'
+[32mINFO    [0m test_negative_page_inputs_symbols[chromium]:utils_test_logger.py:41 Тест требований. Причина: Обнаружены запрещенные спецсимволы. Ожидаем на UI: 'Enter a valid string consisting of letters, numbers, underscores or hyphens'

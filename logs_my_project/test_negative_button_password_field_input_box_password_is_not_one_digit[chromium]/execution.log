@@ -1,0 +1,24 @@
+2026-07-07 21:48:59 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:49:00 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:49:00 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+2026-07-07 21:49:01 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/passwd"]'>
+2026-07-07 21:49:01 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/passwd'> selector='#id_password'>
+2026-07-07 21:49:01 [INFO] Checking the visibility window password field
+2026-07-07 21:49:01 [INFO] Checking the mandatory nature of filling password field
+2026-07-07 21:49:01 [INFO] Enter text into the window password: Petrov@Ivan!
+2026-07-07 21:49:01 [INFO] Press button Enter on the keyboard
+2026-07-07 21:49:01 [INFO] Check password error after enter data. Expected on UI: 'Low password complexity'
+2026-07-07 21:49:01 [INFO] Тест требований пароля. Нарушения: [Нет ни одной цифры]. Ожидаем на UI: 'Low password complexity'
+2026-07-07 21:49:01 [INFO] Текст ожидаемых ошибок отображается корректно.
+2026-07-07 21:51:16 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:17 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:51:17 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+2026-07-07 21:51:18 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/passwd"]'>
+2026-07-07 21:51:18 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/passwd'> selector='#id_password'>
+2026-07-07 21:51:18 [INFO] Checking the visibility window password field
+2026-07-07 21:51:18 [INFO] Checking the mandatory nature of filling password field
+2026-07-07 21:51:18 [INFO] Enter text into the window password: Petrov@Ivan!
+2026-07-07 21:51:18 [INFO] Press button Enter on the keyboard
+2026-07-07 21:51:18 [INFO] Check password error after enter data. Expected on UI: 'Low password complexity'
+2026-07-07 21:51:18 [INFO] Тест требований пароля. Нарушения: [Нет ни одной цифры]. Ожидаем на UI: 'Low password complexity'
+2026-07-07 21:51:18 [INFO] Текст ожидаемых ошибок отображается корректно.

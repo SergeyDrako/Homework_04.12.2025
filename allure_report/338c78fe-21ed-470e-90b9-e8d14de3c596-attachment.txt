@@ -1,0 +1,137 @@
+self = <pages.page_inputs.PageInputs object at 0x000002D7923FCD70>
+data = 'ПетрSee@20700!', expected = 'Low password complexity'
+
+    @allure.step('Negative password test. Check result after enter invalid password: "{data}"')
+    def check_password_error_text(self, data: str, expected: str) -> None:
+        self.logger.log_issue("INFO", f"Check password error after enter data. Expected on UI: '{expected}'")
+    
+        reasons = []
+    
+        if len(data) < 8:
+            reasons.append("Длина < 8 символов")
+    
+        if re.search(r'[а-яА-ЯёЁ]', data):
+            reasons.append("Обнаружена недопустимая кириллица")
+    
+        if not re.search(r'[A-Z]', data):
+            reasons.append("Нет заглавной английской буквы")
+    
+        if not re.search(r'[a-z]', data):
+            reasons.append("Нет строчной английской буквы")
+    
+        if not re.search(r'\d', data):
+            reasons.append("Нет ни одной цифры")
+    
+        if not re.search(r'[!@#$%^&*(),.?":{}|<>]', data):
+            reasons.append("Нет специальных символов")
+    
+        #Итоговая строка для логов:
+        if reasons:
+            final_reason = " | ".join(reasons)
+        else:
+            final_reason = "Пароль формально валиден, но отклонен системой"
+    
+        self.logger.log_issue("INFO",f"Тест требований пароля. Нарушения: [{final_reason}]. "
+                                     f"Ожидаем на UI: '{expected}'")
+    
+        try:
+>           expect(self.choose_error_text_password).to_be_visible(timeout=5000)
+E           AssertionError: Locator expected to be visible
+E           Actual value: None
+E           Error: element(s) not found 
+E           Call log:
+E             - Expect "to_be_visible" with timeout 5000ms
+E             - waiting for locator("#error_1_id_password")
+
+pages\page_inputs.py:200: AssertionError
+
+During handling of the above exception, another exception occurred:
+
+page = <Page url='https://www.qa-practice.com/elements/input/passwd'>
+page_inputs = <pages.page_inputs.PageInputs object at 0x000002D7923FCD70>
+
+    @allure.title("Negative test button Password field. "
+                  "There are password at least one cyrillic character into the window Submit me")
+    def test_negative_button_password_field_input_box_password_have_one_cyrillic_character(page, page_inputs) -> None:
+        page_inputs.open()
+        page_inputs.click_single_ui_elements()
+        page_inputs.click_inputs()
+        page_inputs.click_button_password_field()
+        page_inputs.click_window_password()
+        page_inputs.check_visible_password_field()
+        page_inputs.check_field_is_required_box_password()
+        page_inputs.input_box_password("ПетрSee@20700!")
+        page_inputs.press_enter_box_password()
+>       page_inputs.check_password_error_text('ПетрSee@20700!', "Low password complexity")
+
+Page_Tests\test_page_inputs.py:197: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = <pages.page_inputs.PageInputs object at 0x000002D7923FCD70>
+data = 'ПетрSee@20700!', expected = 'Low password complexity'
+
+    @allure.step('Negative password test. Check result after enter invalid password: "{data}"')
+    def check_password_error_text(self, data: str, expected: str) -> None:
+        self.logger.log_issue("INFO", f"Check password error after enter data. Expected on UI: '{expected}'")
+    
+        reasons = []
+    
+        if len(data) < 8:
+            reasons.append("Длина < 8 символов")
+    
+        if re.search(r'[а-яА-ЯёЁ]', data):
+            reasons.append("Обнаружена недопустимая кириллица")
+    
+        if not re.search(r'[A-Z]', data):
+            reasons.append("Нет заглавной английской буквы")
+    
+        if not re.search(r'[a-z]', data):
+            reasons.append("Нет строчной английской буквы")
+    
+        if not re.search(r'\d', data):
+            reasons.append("Нет ни одной цифры")
+    
+        if not re.search(r'[!@#$%^&*(),.?":{}|<>]', data):
+            reasons.append("Нет специальных символов")
+    
+        #Итоговая строка для логов:
+        if reasons:
+            final_reason = " | ".join(reasons)
+        else:
+            final_reason = "Пароль формально валиден, но отклонен системой"
+    
+        self.logger.log_issue("INFO",f"Тест требований пароля. Нарушения: [{final_reason}]. "
+                                     f"Ожидаем на UI: '{expected}'")
+    
+        try:
+            expect(self.choose_error_text_password).to_be_visible(timeout=5000)
+            expect(self.choose_error_text_password).to_contain_text(expected)
+            self.logger.log_issue("INFO", "Текст ожидаемых ошибок отображается корректно.")
+    
+        except AssertionError:
+            # Если элемент вообще отсутствует в DOM, inner_text()
+            # может выбросить ошибку, поэтому страхуемся через try/except
+            try:
+                actual_text = self.choose_error_text_password.inner_text()
+            except Exception:
+                actual_text = "Элемент ошибки не появился на экране (text: Low password complexity)"
+    
+            error_report = (
+                f"\n[ОШИБКА СРАВНЕНИЯ ТЕКСТА ОШИБКИ]\n"
+                f"ВВЕДЕННЫЙ ПАРОЛЬ: '{data}'\n"
+                f"ВЫЯВЛЕННЫЕ НАРУШЕНИЯ: {final_reason}\n"
+                f"ОЖИДАЛИ НА UI: '{expected}'\n"
+                f"ПОЛУЧИЛИ НА UI: '{actual_text}'\n"
+                f"ПРИЧИНА ПАДЕНИЯ: Сайт не отобразил ожидаемый текст ошибки для данного набора нарушений."
+            )
+            self.logger.log_issue("ERROR", error_report, page=self.page)
+>           pytest.fail(error_report)
+E           Failed: 
+E           [ОШИБКА СРАВНЕНИЯ ТЕКСТА ОШИБКИ]
+E           ВВЕДЕННЫЙ ПАРОЛЬ: 'ПетрSee@20700!'
+E           ВЫЯВЛЕННЫЕ НАРУШЕНИЯ: Обнаружена недопустимая кириллица
+E           ОЖИДАЛИ НА UI: 'Low password complexity'
+E           ПОЛУЧИЛИ НА UI: 'Элемент ошибки не появился на экране (text: Low password complexity)'
+E           ПРИЧИНА ПАДЕНИЯ: Сайт не отобразил ожидаемый текст ошибки для данного набора нарушений.
+
+pages\page_inputs.py:221: Failed

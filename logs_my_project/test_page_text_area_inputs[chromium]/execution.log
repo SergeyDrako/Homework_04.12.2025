@@ -1,0 +1,20 @@
+2026-07-07 21:49:06 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:49:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:49:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-07-07 21:49:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/single"]'>
+2026-07-07 21:49:08 [INFO] Checking the visibility of a text field TextArea
+2026-07-07 21:49:08 [INFO] Checking the mandatory nature of filling text_area_box_text
+2026-07-07 21:49:08 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='#id_text_area'>
+2026-07-07 21:49:08 [INFO] input text in box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования Python?!№
+2026-07-07 21:49:08 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='#submit-id-submit'>
+2026-07-07 21:49:08 [INFO] Checking whether the entered text matches the actual result: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования Python?!№
+2026-07-07 21:51:22 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:23 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:51:23 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/textarea"]'>
+2026-07-07 21:51:24 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='a[href="/elements/textarea/single"]'>
+2026-07-07 21:51:24 [INFO] Checking the visibility of a text field TextArea
+2026-07-07 21:51:24 [INFO] Checking the mandatory nature of filling text_area_box_text
+2026-07-07 21:51:24 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='#id_text_area'>
+2026-07-07 21:51:24 [INFO] input text in box text: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования Python?!№
+2026-07-07 21:51:24 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/textarea/single'> selector='#submit-id-submit'>
+2026-07-07 21:51:24 [INFO] Checking whether the entered text matches the actual result: Hello Python. My name is Sergey. I'm 34 years old. Я узучаю язык программирования Python?!№

@@ -1,0 +1,12 @@
+2026-07-07 21:49:08 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:49:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:49:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/select"]'>
+2026-07-07 21:49:10 [INFO] Click on: Ruby
+2026-07-07 21:49:10 [INFO] Submit: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/select/single_select'> selector='#result-text'>
+2026-07-07 21:49:10 [INFO] Check: Ruby
+2026-07-07 21:51:30 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:31 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:51:31 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/select"]'>
+2026-07-07 21:51:32 [INFO] Click on: Ruby
+2026-07-07 21:51:32 [INFO] Submit: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/select/single_select'> selector='#result-text'>
+2026-07-07 21:51:32 [INFO] Check: Ruby

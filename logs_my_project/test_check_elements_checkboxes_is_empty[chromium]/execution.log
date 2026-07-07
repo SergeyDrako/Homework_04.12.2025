@@ -1,0 +1,14 @@
+2026-07-07 21:48:53 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:48:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:48:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/checkbox"]'>
+2026-07-07 21:48:54 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/single_checkbox'> selector='a[href="/elements/checkbox/mult_checkbox"]'>
+2026-07-07 21:48:55 [INFO] Check status: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#submit-id-submit'>
+2026-07-07 21:48:55 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>
+2026-07-07 21:48:55 [INFO] Check result: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>
+2026-07-07 21:51:11 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:11 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:51:11 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/checkbox"]'>
+2026-07-07 21:51:12 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/single_checkbox'> selector='a[href="/elements/checkbox/mult_checkbox"]'>
+2026-07-07 21:51:12 [INFO] Check status: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#submit-id-submit'>
+2026-07-07 21:51:12 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>
+2026-07-07 21:51:12 [INFO] Check result: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/checkbox/mult_checkbox'> selector='#result-text'>

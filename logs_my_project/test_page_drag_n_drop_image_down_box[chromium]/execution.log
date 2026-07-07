@@ -1,0 +1,22 @@
+2026-07-07 21:48:57 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:48:58 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:48:58 [INFO] Click on page: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/dragndrop"]'>
+2026-07-07 21:48:58 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/dragndrop/boxes'> selector='a[href="/elements/dragndrop/images"]'>
+2026-07-07 21:48:59 [INFO] Checking the visibility image smile
+2026-07-07 21:48:59 [INFO] Starting drag and drop image by coordinates in down box
+2026-07-07 21:48:59 [INFO] Drag and drop image completed
+2026-07-07 21:49:02 [INFO] Check text after dragging down box: Dropped!
+2026-07-07 21:49:02 [INFO] Starting drag and drop image by coordinates in top box
+2026-07-07 21:49:03 [INFO] Drag and drop image completed
+2026-07-07 21:49:06 [INFO] Check text after dragging tob box: Dropped!
+2026-07-07 21:51:15 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:16 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:51:16 [INFO] Click on page: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/dragndrop"]'>
+2026-07-07 21:51:16 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/dragndrop/boxes'> selector='a[href="/elements/dragndrop/images"]'>
+2026-07-07 21:51:16 [INFO] Checking the visibility image smile
+2026-07-07 21:51:16 [INFO] Starting drag and drop image by coordinates in down box
+2026-07-07 21:51:17 [INFO] Drag and drop image completed
+2026-07-07 21:51:20 [INFO] Check text after dragging down box: Dropped!
+2026-07-07 21:51:20 [INFO] Starting drag and drop image by coordinates in top box
+2026-07-07 21:51:20 [INFO] Drag and drop image completed
+2026-07-07 21:51:23 [INFO] Check text after dragging tob box: Dropped!

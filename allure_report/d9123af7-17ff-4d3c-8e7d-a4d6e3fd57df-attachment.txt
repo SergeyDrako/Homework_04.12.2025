@@ -1,0 +1,8 @@
+[32mINFO    [0m test_page_drag_n_drop_boxes[chromium]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
+[32mINFO    [0m test_page_drag_n_drop_boxes[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+[32mINFO    [0m test_page_drag_n_drop_boxes[chromium]:utils_test_logger.py:41 Click on page: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/dragndrop"]'>
+[32mINFO    [0m test_page_drag_n_drop_boxes[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/dragndrop/boxes'> selector='a[href="/elements/dragndrop/boxes"]'>
+[32mINFO    [0m test_page_drag_n_drop_boxes[chromium]:utils_test_logger.py:41 Checking the visibility box Drag me
+[32mINFO    [0m test_page_drag_n_drop_boxes[chromium]:utils_test_logger.py:41 Checking the visibility box Drop here
+[32mINFO    [0m test_page_drag_n_drop_boxes[chromium]:utils_test_logger.py:41 Перетаскивает блок 'Drag me' в блок 'Drop here'
+[32mINFO    [0m test_page_drag_n_drop_boxes[chromium]:utils_test_logger.py:41 Check text after dragging: Dropped!

@@ -1,0 +1,20 @@
+2026-07-07 21:48:55 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:48:56 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:48:56 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+2026-07-07 21:48:56 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/simple"]'>
+2026-07-07 21:48:57 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='#id_text_string'>
+2026-07-07 21:48:57 [INFO] Checking the visibility window text string
+2026-07-07 21:48:57 [INFO] Checking   the mandatory nature of filling Text string
+2026-07-07 21:48:57 [INFO] Enter text into the window Submit me: S1
+2026-07-07 21:48:57 [INFO] Press button Enter on the keyboard
+2026-07-07 21:48:57 [INFO] Check result after enter data: S1
+2026-07-07 21:51:12 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:13 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:51:13 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+2026-07-07 21:51:14 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/simple"]'>
+2026-07-07 21:51:14 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='#id_text_string'>
+2026-07-07 21:51:14 [INFO] Checking the visibility window text string
+2026-07-07 21:51:14 [INFO] Checking   the mandatory nature of filling Text string
+2026-07-07 21:51:14 [INFO] Enter text into the window Submit me: S1
+2026-07-07 21:51:14 [INFO] Press button Enter on the keyboard
+2026-07-07 21:51:14 [INFO] Check result after enter data: S1

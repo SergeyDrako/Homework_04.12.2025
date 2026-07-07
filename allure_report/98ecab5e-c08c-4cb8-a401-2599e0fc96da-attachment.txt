@@ -1,0 +1,19 @@
+[32mINFO    [0m test_page_practice_form[chromium]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
+[32mINFO    [0m test_page_practice_form[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Forms'>
+[32mINFO    [0m test_page_practice_form[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/forms/practice-form"]'>
+[32mINFO    [0m test_page_practice_form[chromium]:utils_test_logger.py:41 input form user: {'first_name': 'Nec', 'last_name': 'BlackCat', 'email': 'drakoserge1990@gmail.com', 'mobile': '8029375455', 'birthday': {'year': '2019', 'month': '10', 'day': '20'}, 'subjects': 'Maths', 'address': 'city Minsk, street Zhudro', 'state': 'NCR', 'city': 'Delhi'}
+[32mINFO    [0m test_page_practice_form[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/forms/practice-form'> selector='#submit-id-submit'>
+[32mINFO    [0m test_page_practice_form[chromium]:utils_test_logger.py:41 Ожидаем результат user: {'first_name': 'Nec', 'last_name': 'BlackCat', 'email': 'drakoserge1990@gmail.com', 'mobile': '8029375455', 'birthday': {'year': '2019', 'month': '10', 'day': '20'}, 'subjects': 'Maths', 'address': 'city Minsk, street Zhudro', 'state': 'NCR', 'city': 'Delhi'}
+[32mINFO    [0m test_page_practice_form[chromium]:utils_test_logger.py:41 Checking the visibility of butten gender male
+[32mINFO    [0m test_page_practice_form[chromium]:utils_test_logger.py:41 Checking the mandatory nature of filling gender
+[32mINFO    [0m test_page_practice_form[chromium]:utils_test_logger.py:41 Checking text in box gender: Male
+[32mINFO    [0m test_page_practice_form[chromium]:utils_test_logger.py:41 Checking the visibility of butten hobbie sport
+[32mINFO    [0m test_page_practice_form[chromium]:utils_test_logger.py:41 Checking the visibility of butten hobbie reading
+[32mINFO    [0m test_page_practice_form[chromium]:utils_test_logger.py:41 Checking text in box hobbie music
+[32mINFO    [0m test_page_practice_form[chromium]:utils_test_logger.py:41 Checking text in box hobbies: Sports, Reading, Music
+[32mINFO    [0m test_page_practice_form[chromium]:utils_test_logger.py:41 Начинаем проверку текста. Ожидаем: NCR Delhi
+[31m[1mERROR   [0m test_page_practice_form[chromium]:utils_test_logger.py:37 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: NCR Delhi
+ПОЛУЧИЛИ: State and City	NCR
+РАЗНИЦА: Сайт изменил регистр букв или склеил слова (проверьте пробелы после '?!№'). | Screenshot: logs_my_project\test_page_practice_form[chromium]\screenshot_ERROR_21-51-29.png

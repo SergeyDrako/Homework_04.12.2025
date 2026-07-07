@@ -1,0 +1,20 @@
+2026-07-07 21:48:56 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:48:57 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:48:57 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+2026-07-07 21:48:57 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/email"]'>
+2026-07-07 21:48:58 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/email'> selector='#id_email'>
+2026-07-07 21:48:58 [INFO] Checking the visibility window email field
+2026-07-07 21:48:58 [INFO] Checking the mandatory nature of filling email field
+2026-07-07 21:48:58 [INFO] Enter text into the window email: DRAKOSERGE1990@GMAIL.
+2026-07-07 21:48:58 [INFO] Press button Enter on the keyboard
+2026-07-07 21:48:58 [INFO] Check result after enter data: Enter a valid email address.
+2026-07-07 21:51:13 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:14 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:51:14 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/input"]'>
+2026-07-07 21:51:15 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/simple'> selector='a[href="/elements/input/email"]'>
+2026-07-07 21:51:15 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/input/email'> selector='#id_email'>
+2026-07-07 21:51:15 [INFO] Checking the visibility window email field
+2026-07-07 21:51:15 [INFO] Checking the mandatory nature of filling email field
+2026-07-07 21:51:15 [INFO] Enter text into the window email: DRAKOSERGE1990@GMAIL.
+2026-07-07 21:51:15 [INFO] Press button Enter on the keyboard
+2026-07-07 21:51:15 [INFO] Check result after enter data: Enter a valid email address.

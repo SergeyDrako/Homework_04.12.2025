@@ -1,0 +1,38 @@
+2026-07-07 21:49:01 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:49:02 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Forms'>
+2026-07-07 21:49:02 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/forms/practice-form"]'>
+2026-07-07 21:49:03 [INFO] input form user: {'first_name': 'Nec', 'last_name': 'BlackCat', 'email': 'drakoserge1990@gmail.com', 'mobile': '8029375455', 'birthday': {'year': '2019', 'month': '10', 'day': '20'}, 'subjects': 'Maths', 'address': 'city Minsk, street Zhudro', 'state': 'NCR', 'city': 'Delhi'}
+2026-07-07 21:49:07 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/forms/practice-form'> selector='#submit-id-submit'>
+2026-07-07 21:49:07 [INFO] Ожидаем результат user: {'first_name': 'Nec', 'last_name': 'BlackCat', 'email': 'drakoserge1990@gmail.com', 'mobile': '8029375455', 'birthday': {'year': '2019', 'month': '10', 'day': '20'}, 'subjects': 'Maths', 'address': 'city Minsk, street Zhudro', 'state': 'NCR', 'city': 'Delhi'}
+2026-07-07 21:49:07 [INFO] Checking the visibility of butten gender male
+2026-07-07 21:49:07 [INFO] Checking the mandatory nature of filling gender
+2026-07-07 21:49:07 [INFO] Checking text in box gender: Male
+2026-07-07 21:49:07 [INFO] Checking the visibility of butten hobbie sport
+2026-07-07 21:49:07 [INFO] Checking the visibility of butten hobbie reading
+2026-07-07 21:49:07 [INFO] Checking text in box hobbie music
+2026-07-07 21:49:07 [INFO] Checking text in box hobbies: Sports, Reading, Music
+2026-07-07 21:49:07 [INFO] Начинаем проверку текста. Ожидаем: NCR Delhi
+2026-07-07 21:49:12 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: NCR Delhi
+ПОЛУЧИЛИ: State and City	NCR
+РАЗНИЦА: Сайт изменил регистр букв или склеил слова (проверьте пробелы после '?!№'). | Screenshot: logs_my_project\test_page_practice_form[chromium]\screenshot_ERROR_21-49-12.png
+2026-07-07 21:51:18 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:19 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Forms'>
+2026-07-07 21:51:19 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/forms/practice-form"]'>
+2026-07-07 21:51:20 [INFO] input form user: {'first_name': 'Nec', 'last_name': 'BlackCat', 'email': 'drakoserge1990@gmail.com', 'mobile': '8029375455', 'birthday': {'year': '2019', 'month': '10', 'day': '20'}, 'subjects': 'Maths', 'address': 'city Minsk, street Zhudro', 'state': 'NCR', 'city': 'Delhi'}
+2026-07-07 21:51:23 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/forms/practice-form'> selector='#submit-id-submit'>
+2026-07-07 21:51:24 [INFO] Ожидаем результат user: {'first_name': 'Nec', 'last_name': 'BlackCat', 'email': 'drakoserge1990@gmail.com', 'mobile': '8029375455', 'birthday': {'year': '2019', 'month': '10', 'day': '20'}, 'subjects': 'Maths', 'address': 'city Minsk, street Zhudro', 'state': 'NCR', 'city': 'Delhi'}
+2026-07-07 21:51:24 [INFO] Checking the visibility of butten gender male
+2026-07-07 21:51:24 [INFO] Checking the mandatory nature of filling gender
+2026-07-07 21:51:24 [INFO] Checking text in box gender: Male
+2026-07-07 21:51:24 [INFO] Checking the visibility of butten hobbie sport
+2026-07-07 21:51:24 [INFO] Checking the visibility of butten hobbie reading
+2026-07-07 21:51:24 [INFO] Checking text in box hobbie music
+2026-07-07 21:51:24 [INFO] Checking text in box hobbies: Sports, Reading, Music
+2026-07-07 21:51:24 [INFO] Начинаем проверку текста. Ожидаем: NCR Delhi
+2026-07-07 21:51:29 [ERROR] 
+[ОШИБКА СРАВНЕНИЯ ТЕКСТА]
+ОЖИДАЛИ: NCR Delhi
+ПОЛУЧИЛИ: State and City	NCR
+РАЗНИЦА: Сайт изменил регистр букв или склеил слова (проверьте пробелы после '?!№'). | Screenshot: logs_my_project\test_page_practice_form[chromium]\screenshot_ERROR_21-51-29.png

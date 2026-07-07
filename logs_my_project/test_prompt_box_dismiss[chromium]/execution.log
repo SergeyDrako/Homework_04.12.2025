@@ -1,0 +1,14 @@
+2026-07-07 21:48:51 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:48:52 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:48:52 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/alert"]'>
+2026-07-07 21:48:52 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/alert'> selector='internal:role=link[name="Prompt box"i]'>
+2026-07-07 21:48:52 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/prompt'> selector='.a-button'>
+2026-07-07 21:48:53 [INFO] Dialog appeared: 'Please enter some text'. Dismissing it.
+2026-07-07 21:48:53 [INFO] Checking prompt box: 'You canceled the prompt'
+2026-07-07 21:51:08 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:51:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/alert"]'>
+2026-07-07 21:51:10 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/alert'> selector='internal:role=link[name="Prompt box"i]'>
+2026-07-07 21:51:10 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/prompt'> selector='.a-button'>
+2026-07-07 21:51:10 [INFO] Dialog appeared: 'Please enter some text'. Dismissing it.
+2026-07-07 21:51:10 [INFO] Checking prompt box: 'You canceled the prompt'

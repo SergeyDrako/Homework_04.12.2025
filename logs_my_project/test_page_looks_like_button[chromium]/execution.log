@@ -1,0 +1,12 @@
+2026-07-07 21:48:51 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:48:52 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:48:52 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/button"]'>
+2026-07-07 21:48:53 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/button/simple'> selector='text = Looks like a button'>
+2026-07-07 21:48:53 [INFO] Push on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/button/like_a_button'> selector='text = Looks like a button'>
+2026-07-07 21:48:54 [INFO] Check_result: Submitted
+2026-07-07 21:51:08 [INFO] Open page: https://www.qa-practice.com/
+2026-07-07 21:51:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
+2026-07-07 21:51:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/button"]'>
+2026-07-07 21:51:09 [INFO] Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/button/simple'> selector='text = Looks like a button'>
+2026-07-07 21:51:10 [INFO] Push on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/button/like_a_button'> selector='text = Looks like a button'>
+2026-07-07 21:51:10 [INFO] Check_result: Submitted
