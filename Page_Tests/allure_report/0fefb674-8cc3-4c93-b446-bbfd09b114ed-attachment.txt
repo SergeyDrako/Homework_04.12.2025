@@ -1,6 +1,0 @@
-[32mINFO    [0m test_page_looks_like_button[chromium]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
-[32mINFO    [0m test_page_looks_like_button[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
-[32mINFO    [0m test_page_looks_like_button[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/button"]'>
-[32mINFO    [0m test_page_looks_like_button[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/button/simple'> selector='text = Looks like a button'>
-[32mINFO    [0m test_page_looks_like_button[chromium]:utils_test_logger.py:41 Push on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/button/like_a_button'> selector='text = Looks like a button'>
-[32mINFO    [0m test_page_looks_like_button[chromium]:utils_test_logger.py:41 Check_result: Submitted

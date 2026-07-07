@@ -1,6 +1,0 @@
-[32mINFO    [0m test_alert_box[chromium]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
-[32mINFO    [0m test_alert_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
-[32mINFO    [0m test_alert_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/alert"]'>
-[32mINFO    [0m test_alert_box[chromium]:utils_test_logger.py:41 Setting up listener for Alert
-[32mINFO    [0m test_alert_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/alert'> selector='.a-button'>
-[32mINFO    [0m test_alert_box[chromium]:utils_test_logger.py:41 Dialog message: 'I am an alert!'

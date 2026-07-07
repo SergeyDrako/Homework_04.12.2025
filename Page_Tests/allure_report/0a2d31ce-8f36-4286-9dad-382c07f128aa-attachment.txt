@@ -1,9 +1,0 @@
-[32mINFO    [0m test_select_period[chromium-Tomorrow]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
-[32mINFO    [0m test_select_period[chromium-Tomorrow]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
-[32mINFO    [0m test_select_period[chromium-Tomorrow]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/select"]'>
-[32mINFO    [0m test_select_period[chromium-Tomorrow]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/select/single_select'> selector='a[href="/elements/select/mult_select"]'>
-[32mINFO    [0m test_select_period[chromium-Tomorrow]:utils_test_logger.py:41 Click on: Car
-[32mINFO    [0m test_select_period[chromium-Tomorrow]:utils_test_logger.py:41 Click on: Restaurant
-[32mINFO    [0m test_select_period[chromium-Tomorrow]:utils_test_logger.py:41 Click on: Tomorrow
-[32mINFO    [0m test_select_period[chromium-Tomorrow]:utils_test_logger.py:41 Submit: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/select/mult_select'> selector='#result-text'>
-[32mINFO    [0m test_select_period[chromium-Tomorrow]:utils_test_logger.py:41 Check: to go by car to the restaurant tomorrow

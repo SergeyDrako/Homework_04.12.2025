@@ -1,7 +1,0 @@
-[32mINFO    [0m test_prompt_box_dismiss[chromium]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
-[32mINFO    [0m test_prompt_box_dismiss[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
-[32mINFO    [0m test_prompt_box_dismiss[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/alert"]'>
-[32mINFO    [0m test_prompt_box_dismiss[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/alert'> selector='internal:role=link[name="Prompt box"i]'>
-[32mINFO    [0m test_prompt_box_dismiss[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/prompt'> selector='.a-button'>
-[32mINFO    [0m test_prompt_box_dismiss[chromium]:utils_test_logger.py:41 Dialog appeared: 'Please enter some text'. Dismissing it.
-[32mINFO    [0m test_prompt_box_dismiss[chromium]:utils_test_logger.py:41 Checking prompt box: 'You canceled the prompt'

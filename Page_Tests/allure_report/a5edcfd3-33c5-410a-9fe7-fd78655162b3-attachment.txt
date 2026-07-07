@@ -1,8 +1,0 @@
-[32mINFO    [0m test_confirmation_box[chromium]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
-[32mINFO    [0m test_confirmation_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
-[32mINFO    [0m test_confirmation_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/alert"]'>
-[32mINFO    [0m test_confirmation_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/alert'> selector='internal:role=link[name="Confirmation box"i]'>
-[32mINFO    [0m test_confirmation_box[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/alert/confirm'> selector='.a-button'>
-[32mINFO    [0m test_confirmation_box[chromium]:utils_test_logger.py:41 Setting up handler to ACCEPT the next Confirmation dialog
-[32mINFO    [0m test_confirmation_box[chromium]:utils_test_logger.py:41 Checking confirmation box: 'You selected
-Cancel'

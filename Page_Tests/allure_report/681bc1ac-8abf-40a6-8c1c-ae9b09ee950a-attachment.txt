@@ -1,7 +1,0 @@
-[32mINFO    [0m test_text_multiple_selects[chromium]:utils_test_logger.py:41 Open page: https://www.qa-practice.com/
-[32mINFO    [0m test_text_multiple_selects[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='text = Single UI Elements'>
-[32mINFO    [0m test_text_multiple_selects[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/'> selector='a[href="/elements/select"]'>
-[32mINFO    [0m test_text_multiple_selects[chromium]:utils_test_logger.py:41 Click on: <Locator frame=<Frame name= url='https://www.qa-practice.com/elements/select/single_select'> selector='a[href="/elements/select/mult_select"]'>
-[32mINFO    [0m test_text_multiple_selects[chromium]:utils_test_logger.py:41 Check: Choose the place you want to go*
-[32mINFO    [0m test_text_multiple_selects[chromium]:utils_test_logger.py:41 Check: Choose how you want to get there*
-[32mINFO    [0m test_text_multiple_selects[chromium]:utils_test_logger.py:41 Check: Choose when you want to go*
